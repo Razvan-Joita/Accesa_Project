@@ -1,0 +1,4 @@
+New game for user Razvan
+Bet for round 1: 100
+Win round 1New amount: 200
+Final amount: 200
